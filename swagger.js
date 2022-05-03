@@ -2,7 +2,7 @@ const swaggerAutogen = require('swagger-autogen')();
 const doc = {
       info: {
         version: "1.0.0",
-        title: "Reddit API Documentation",
+        title: "API Documentation",
         description: "Detailed API Information",
         contact: {
           name: "Francoise"

@@ -2,13 +2,13 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Reddit API Documentation",
+    "title": "API Documentation",
     "description": "Detailed API Information",
     "contact": {
       "name": "Francoise"
     }
   },
-  "host": "localhost:8000",
+  "host": "mybrandbackend01.herokuapp.com/",
   "basePath": "/",
   "schemes": [
     "http"

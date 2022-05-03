@@ -23,7 +23,6 @@ app.use((req, res, next) => {
 
 // Extended: https://swagger.io/specification/#infoObject
 
-
 const username = "Francoise";
 const password = "root";
 const cluster = "cluster0";
